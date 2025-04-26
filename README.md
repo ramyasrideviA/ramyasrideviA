@@ -68,14 +68,6 @@
 
 ---
 
-
-### 🔥 Contribution Streak
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramyasrideviA&theme=radical&count_private=true" alt="contribution streak" />
-</p>
-
----
-
 ### 👀 Visitor Count  
 <p>
   <img src="https://komarev.com/ghpvc/?username=ramyasrideviA&label=Profile%20Views&color=brightgreen&style=flat-square" />
