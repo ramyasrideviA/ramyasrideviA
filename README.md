@@ -53,9 +53,9 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ramyasrideviA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="github stats" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramyasrideviA&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
